@@ -4,7 +4,7 @@ The tagging program uses 1/1000 as the likelihood for out of vocabulary (OOV) it
 
 Prior probabilities not found in the training corpus are set to a default value of 1/1000. 
 
-The command to run the program is 'python rz2123_viterbi_HW3.py arg1 arg2 arg3'.
+The command to run the program is 'python Viterbi_HMM_POS.py arg1 arg2 arg3'.
 
 The arguments are to be in the format as follows:
 
@@ -26,4 +26,4 @@ The 2 types of files:
 
 2) file.words -- one token per line, blank line between sentences
 
-Ex: 'python rz2123_viterbi_HW3.py WSJ_02-21.pos WSJ_23.words submission.pos'
+Ex: 'python Viterbi_HMM_POS.py WSJ_02-21.pos WSJ_23.words submission.pos'
