@@ -18,7 +18,7 @@ The 2 types of files:
 
 1) file.pos -- two columns separated by a tab
    1st column: token
-   2nd column: POS tag
+   2nd column: POS tag of the token using the Penn Treebank tag set
    Blank line: sentence separator
 
 2) file.words -- one token per line, blank line between sentences
