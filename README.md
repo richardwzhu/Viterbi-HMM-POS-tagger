@@ -20,7 +20,7 @@ The 2 types of files:
 
    1st column: token
    
-   2nd column: POS tag
+   2nd column: POS tag of the token using the Penn Treebank tag set
    
    Blank line: sentence separator
 
